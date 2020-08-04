@@ -1,4 +1,4 @@
-#### Hhello, I'm Talal 👋
+#### Hello, I'm Talal 👋
 I like to do fun stuff and CODE~!
 
 ### Talk to me on Discord @ Talal#3348:
