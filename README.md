@@ -3,6 +3,7 @@ I like to do fun stuff and CODE~!
 
 ### Talk to me on Discord @ Talal#3348:
 
+I mostly make Discord bots so
 <br />
 
 ### Things that I use:
