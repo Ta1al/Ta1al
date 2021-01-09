@@ -22,8 +22,8 @@ I mostly make Discord bots so
 
 ---
 
-<img align="left" alt="Talal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=000Lonewolf&show_icons=true&hide_border=true&count_private=true?theme=radical" />
-<img align="left" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=000Lonewolf&hide=typescript,css" />
+<img align="left" alt="Talal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ta1al&show_icons=true&hide_border=true&count_private=true?theme=radical" />
+<img align="left" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ta1al&hide=typescript,css" />
 
 [VSCode]: https://code.visualstudio.com/
 [Javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
