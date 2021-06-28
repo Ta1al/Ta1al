@@ -10,7 +10,7 @@ I mostly make Discord bots so
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Javascript]
-[<img align="left" alt="Discord.js" width="26px" src="https://discord.js.org/static/logo-square.png" />][Discord.js]
+[<img align="left" alt="Discord.js" width="26px" src="https://cdn.discordapp.com/icons/222078108977594368/2d5777275b5f56e42a131898ab061204.png" />][Discord.js]
 [<img align="left" alt="Discord-Akairo" width="26px" src="https://cdn.discordapp.com/icons/305153029567676426/dce0cb1e54f42478985c132800e1f6fc.png" />][Discord-Akairo]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Nodejs]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MongoDB]
