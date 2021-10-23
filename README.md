@@ -15,11 +15,13 @@ Find me on Discord: `Talal#3348`
 [<img align="center" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 <br />
 <br />
-
+===
+[<img align="center" alt="WebDevCert" src="https://user-images.githubusercontent.com/43641182/138561865-417ddd6e-faee-4236-8926-0b9c1ae331f1.png" />][WebDevCert]
+[<img align="center" alt="JSDevCert" src="https://user-images.githubusercontent.com/43641182/138561989-8117a879-b3cf-45a5-877d-1d2b734de770.png" />][JSDevCert]
 ---
 
-<img align="left" alt="Talal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ta1al&show_icons=true&hide_border=true&theme=tokyonight&count_private=true?theme=radical" />
-<img align="left" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ta1al&theme=tokyonight" />
+<img align="left" width="47%" alt="Talal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ta1al&show_icons=true&hide_border=true&theme=tokyonight&count_private=true?theme=radical" />
+<img align="right" width="45%" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ta1al&theme=tokyonight" />
 
 [VSCode]: https://code.visualstudio.com/
 [freeCodeCamp]: https://freecodecamp.org
@@ -32,3 +34,5 @@ Find me on Discord: `Talal#3348`
 [MongoDB]: https://www.mongodb.com/
 [Git]: https://git-scm.com/
 [Github]: https://github.com/
+[WebDevCert]: https://www.freecodecamp.org/certification/talalahmad/responsive-web-design
+[JSDevCert]: https://www.freecodecamp.org/certification/talalahmad/javascript-algorithms-and-data-structures
