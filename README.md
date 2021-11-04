@@ -21,7 +21,7 @@ Find me on Discord: `Talal#3348`
 ---
 
 <img align="left" width="47%" alt="Talal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ta1al&show_icons=true&hide_border=true&theme=tokyonight&count_private=true?theme=radical" />
-<img align="right" width="45%" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ta1al&theme=tokyonight" />
+<img align="right" width="45%" alt="Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ta1al&theme=tokyonight&count_private=true&hide_border=true" />
 
 [VSCode]: https://code.visualstudio.com/
 [freeCodeCamp]: https://freecodecamp.org
