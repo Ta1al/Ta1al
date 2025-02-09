@@ -1,5 +1,5 @@
 ### Hello, I'm Talal 👋
-#### Find me on Discord @ `Talal#3348`
+#### Find me on Discord @`ta1al.com`
 I'm a developer that works on random things.[.](https://www.freecodecamp.org/talalahmad#:~:text=freeCodeCamp%20Certifications).
 <br />
 <br />
